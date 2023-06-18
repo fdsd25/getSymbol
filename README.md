@@ -1,0 +1,2 @@
+# getSymbol
+getSymbol
